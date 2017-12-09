@@ -1,5 +1,8 @@
 while True:
     print("""
+/////////////////////////////
+////Creata da zBennyAnd/////
+/////////////////////////////
 Benvenuto sulla calcolatrice!
 Per iniziare indica cosa vuoi fare:
 
